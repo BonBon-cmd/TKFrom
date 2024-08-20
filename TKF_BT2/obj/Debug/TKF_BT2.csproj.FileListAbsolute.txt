@@ -1,0 +1,13 @@
+C:\Users\PC602\Downloads\2212362_NHHa_BT\TKF_BT2\bin\Debug\TKF_BT2.exe.config
+C:\Users\PC602\Downloads\2212362_NHHa_BT\TKF_BT2\bin\Debug\TKF_BT2.exe
+C:\Users\PC602\Downloads\2212362_NHHa_BT\TKF_BT2\bin\Debug\TKF_BT2.pdb
+C:\Users\PC602\Downloads\2212362_NHHa_BT\TKF_BT2\obj\Debug\TKF_BT2.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\2212362_NHHa_BT\TKF_BT2\obj\Debug\TKF_BT2.FormChinh.resources
+C:\Users\PC602\Downloads\2212362_NHHa_BT\TKF_BT2\obj\Debug\TKF_BT2.frmBai1_.resources
+C:\Users\PC602\Downloads\2212362_NHHa_BT\TKF_BT2\obj\Debug\TKF_BT2.Properties.Resources.resources
+C:\Users\PC602\Downloads\2212362_NHHa_BT\TKF_BT2\obj\Debug\TKF_BT2.csproj.GenerateResource.cache
+C:\Users\PC602\Downloads\2212362_NHHa_BT\TKF_BT2\obj\Debug\TKF_BT2.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\2212362_NHHa_BT\TKF_BT2\obj\Debug\TKF_BT2.exe
+C:\Users\PC602\Downloads\2212362_NHHa_BT\TKF_BT2\obj\Debug\TKF_BT2.pdb
+C:\Users\PC602\Downloads\2212362_NHHa_BT\TKF_BT2\obj\Debug\TKF_BT2.frmBai2_.resources
+C:\Users\PC602\Downloads\2212362_NHHa_BT\TKF_BT2\obj\Debug\TKF_BT2.frmBai3_.resources
